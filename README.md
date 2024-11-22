@@ -1,6 +1,6 @@
 ## Hola, soy Lorenzo 👋
 
-```js
+```javascript
 let looreenz = {
   nombre: "Lorenzo",
   rol: "Estudiante de Desarrollo Web",
