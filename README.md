@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hola, soy Lorenzo 👋
 
-<!--
-**looreenz/looreenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+let looreenz = {
+  nombre: "Lorenzo",
+  rol: "Estudiante de Desarrollo Web",
+  ubicacion: "🌍 Cualquier lugar con conexión internet",
+  pasiones: ["💻 Programación", "🎹 música", "🏎️ coches", "🏍️ motos"],
+  conocimientos: ["HTML", "CSS", "JavaScript", "PHP", "Java", "C", "C++", "C#"],
+  aprendiendo: ["React", "Node.js"],
+  herramientas: ["VSCode", "GitHub", "Docker"],
+  softSkills: ["👨🏻‍🤝‍👨🏼 Trabajo en equipo", "🤓 Problem solving", "🧠 Pensamiento crítico"],
+  contacto: {
+    X: "@looreenz27",
+    email: "lorenzo.cremonese@icloud.com"
+  }
+};
+```
