@@ -16,3 +16,5 @@ let looreenz = {
   }
 };
 ```
+
+![Las Estadísticas de Lorenzo](https://github-readme-stats.vercel.app/api?username=looreenz&show_icons=true&theme=transparent)
