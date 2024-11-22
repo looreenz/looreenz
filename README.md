@@ -1,4 +1,4 @@
-# Hola, soy Lorenzo 👋
+# Hola, soy Lorenzo! 👋
 
 ```javascript
 let looreenz = {
