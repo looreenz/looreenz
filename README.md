@@ -5,7 +5,7 @@ let looreenz = {
   nombre: "Lorenzo",
   rol: "Estudiante de Desarrollo Web",
   ubicacion: "🌍 Cualquier lugar con conexión internet",
-  pasiones: ["💻 Programación", "🎹 música", "🏎️ coches", "🏍️ motos"],
+  pasiones: ["💻 Programación", "🎹 Música", "🏎️ Coches", "🏍️ Motos"],
   conocimientos: ["HTML", "CSS", "JavaScript", "PHP", "Java", "C", "C++", "C#"],
   aprendiendo: ["React", "Node.js"],
   herramientas: ["VSCode", "GitHub", "Docker"],
