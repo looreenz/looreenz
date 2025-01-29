@@ -7,7 +7,7 @@ let looreenz = {
   ubicacion: "🌍 Cualquier lugar con conexión internet",
   pasiones: ["💻 Programación", "🎹 Música", "🏎️ Coches", "🏍️ Motos"],
   conocimientos: ["HTML", "CSS", "JavaScript", "PHP", "Java", "C", "C++", "C#"],
-  aprendiendo: ["React", "Node.js"],
+  aprendiendo: ["React", "Laravel", "Bootstrap"],
   herramientas: ["VSCode", "GitHub", "Docker"],
   softSkills: ["👨🏻‍🤝‍👨🏼 Trabajo en equipo", "🤓 Problem solving", "🧠 Pensamiento crítico"],
   contacto: {
