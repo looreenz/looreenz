@@ -11,7 +11,7 @@ let looreenz = {
   herramientas: ["VSCode", "GitHub", "Docker"],
   softSkills: ["👨🏻‍🤝‍👨🏼 Trabajo en equipo", "🤓 Problem solving", "🧠 Pensamiento crítico"],
   contacto: {
-    email: "lorenzo.cremonese@icloud.com"
+    email: "lorenzo.cremonese@icloud.com",
     instagram: "looreenzoo27",
     X: "@looreenz27",
   }
